@@ -1,0 +1,12 @@
+name: CVF20
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - ipython
+  - python=3.7
+  - numpy
+  - scipy
+  - matplotlib
+  - pillow
+  - scikit-image
